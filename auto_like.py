@@ -4,6 +4,8 @@ import requests
 # Yahan apni aur apne dosto ki UIDs add kar dein
 UID_BANK = [
     "1229542378",
+    "2076877917",
+    "1856711429",
     # Aur bhi UIDs yahan add kar sakte hain comma laga kar
 ]
 
