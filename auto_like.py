@@ -8,6 +8,9 @@ UID_BANK = [
     "1856711429",
     "1837749051",
     "1773695118",
+    "11633576702",
+    "12642561964",
+    "611802148"
     # Aur bhi UIDs yahan add kar sakte hain comma laga kar
 ]
 
