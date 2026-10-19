@@ -17,7 +17,7 @@ def send_likes():
     print(f"Total UIDs in bank: {len(UID_BANK)}. Like sending shuru ho raha hai...")
     
     for idx, uid in enumerate(UID_BANK, 1):
-        api_url = f"https://like-with-level-q64s5pt53-kanhas-projects-60c1d631.vercel.app/like?server_name={SERVER_NAME}&uid={uid}"
+        api_url = f"https://like-with-level.vercel.app/like?server_name={SERVER_NAME}&uid={uid}"
         
         try:
             response = requests.get(api_url, timeout=15)
