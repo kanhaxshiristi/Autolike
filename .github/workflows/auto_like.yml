@@ -2,9 +2,8 @@ name: Daily Free Fire Auto Like
 
 on:
   schedule:
-    # Rozana ek baar automatic chalega
-    - cron: "0 4 * * *" 
-  workflow_dispatch: # Manual run karne ke liye button
+    - cron: "0 4 * * *" # Rozana ek baar automatic chalega
+  workflow_dispatch: # Manual run karne ke liye Actions tab mein button
 
 jobs:
   run-likes:
